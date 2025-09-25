@@ -1,0 +1,46 @@
+{
+    "app": {
+      "name": "मनीवाइज"
+    },
+    "login": {
+      "title": "मनीवाइज मध्ये आपले स्वागत आहे",
+      "subtitle": "आपला वैयक्तिक वित्त सहाय्यक",
+      "email": "ईमेल",
+      "emailPlaceholder": "तुम्ही@उदाहरण.कॉम",
+      "password": "पासवर्ड",
+      "passwordPlaceholder": "••••••••",
+      "remember": "मला लक्षात ठेवा",
+      "forgot": "पासवर्ड विसरलात?",
+      "signIn": "साइन इन करा",
+      "signUp": "साइन अप करा",
+      "noAccount": "तुमचे खाते नाही का?",
+      "signUpNow": "आता साइन अप करा"
+    },
+    "language": {
+      "title": "आपली भाषा निवडा",
+      "subtitle": "सर्वोत्तम अनुभवासाठी आपली पसंतीची भाषा निवडा",
+      "continue": "पुढे जा"
+    },
+    "dashboard": {
+      "welcome": "स्वागत",
+      "subtitle": "मनीवाइजसह सहजपणे आपले वित्त ट्रॅक करा",
+      "quickActions": "त्वरित क्रिया",
+      "addIncome": "उत्पन्न जोडा",
+      "addExpense": "खर्च जोडा",
+      "viewDebts": "कर्ज पहा",
+      "viewTips": "टिपा पहा",
+      "financialSummary": "आर्थिक सारांश",
+      "income": "उत्पन्न",
+      "expenses": "खर्च",
+      "savings": "बचत",
+      "voiceAssistant": "व्हॉइस असिस्टंट",
+      "voiceSubtitle": "व्यवहार नोंदविण्यासाठी टॅप करा आणि बोला",
+      "voiceExample": "उदाहरण: \"मी आज २०० रुपये कमावले आणि ५० रुपये खर्च केले.\""
+    },
+    "nav": {
+      "home": "होम",
+      "reports": "अहवाल",
+      "debts": "कर्ज",
+      "profile": "प्रोफाइल"
+    }
+  }
