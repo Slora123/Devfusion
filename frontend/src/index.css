@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Mobile-safe sizing */
+html, body, #root {
+	height: 100%;
+}
+
+/* Touch target helpers */
+.btn {
+	@apply active:opacity-80 disabled:opacity-50 disabled:cursor-not-allowed;
+}
