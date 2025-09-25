@@ -1,0 +1,47 @@
+// translations/en.json
+{
+    "app": {
+      "name": "MoneyWise"
+    },
+    "login": {
+      "title": "Welcome to MoneyWise",
+      "subtitle": "Your personal finance assistant",
+      "email": "Email",
+      "emailPlaceholder": "you@example.com",
+      "password": "Password",
+      "passwordPlaceholder": "••••••••",
+      "remember": "Remember me",
+      "forgot": "Forgot password?",
+      "signIn": "Sign In",
+      "signUp": "Sign Up",
+      "noAccount": "Don't have an account?",
+      "signUpNow": "Sign up now"
+    },
+    "language": {
+      "title": "Select Your Language",
+      "subtitle": "Choose your preferred language for the best experience",
+      "continue": "Continue"
+    },
+    "dashboard": {
+      "welcome": "Welcome",
+      "subtitle": "Track your finances easily with MoneyWise",
+      "quickActions": "Quick Actions",
+      "addIncome": "Add Income",
+      "addExpense": "Add Expense",
+      "viewDebts": "View Debts",
+      "viewTips": "View Tips",
+      "financialSummary": "Financial Summary",
+      "income": "Income",
+      "expenses": "Expenses",
+      "savings": "Savings",
+      "voiceAssistant": "Voice Assistant",
+      "voiceSubtitle": "Tap and speak to record transactions",
+      "voiceExample": "Example: \"I earned 200 rupees and spent 50 rupees today.\""
+    },
+    "nav": {
+      "home": "Home",
+      "reports": "Reports",
+      "debts": "Debts",
+      "profile": "Profile"
+    }
+  }

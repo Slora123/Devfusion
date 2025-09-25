@@ -1,0 +1,47 @@
+// translations/hi.json
+{
+    "app": {
+      "name": "मनीवाइज"
+    },
+    "login": {
+      "title": "मनीवाइज में आपका स्वागत है",
+      "subtitle": "आपका व्यक्तिगत वित्त सहायक",
+      "email": "ईमेल",
+      "emailPlaceholder": "आप@उदाहरण.कॉम",
+      "password": "पासवर्ड",
+      "passwordPlaceholder": "••••••••",
+      "remember": "मुझे याद रखें",
+      "forgot": "पासवर्ड भूल गए?",
+      "signIn": "साइन इन करें",
+      "signUp": "साइन अप करें",
+      "noAccount": "क्या आपके पास खाता नहीं है?",
+      "signUpNow": "अभी साइन अप करें"
+    },
+    "language": {
+      "title": "अपनी भाषा चुनें",
+      "subtitle": "सर्वोत्तम अनुभव के लिए अपनी पसंदीदा भाषा चुनें",
+      "continue": "जारी रखें"
+    },
+    "dashboard": {
+      "welcome": "स्वागत है",
+      "subtitle": "मनीवाइज के साथ आसानी से अपने वित्त को ट्रैक करें",
+      "quickActions": "त्वरित क्रियाएं",
+      "addIncome": "आय जोड़ें",
+      "addExpense": "खर्च जोड़ें",
+      "viewDebts": "ऋण देखें",
+      "viewTips": "सुझाव देखें",
+      "financialSummary": "वित्तीय सारांश",
+      "income": "आय",
+      "expenses": "खर्च",
+      "savings": "बचत",
+      "voiceAssistant": "वॉइस असिस्टेंट",
+      "voiceSubtitle": "लेन-देन रिकॉर्ड करने के लिए टैप करें और बोलें",
+      "voiceExample": "उदाहरण: \"मैंने आज 200 रुपये कमाए और 50 रुपये खर्च किए।\""
+    },
+    "nav": {
+      "home": "होम",
+      "reports": "रिपोर्ट",
+      "debts": "ऋण",
+      "profile": "प्रोफ़ाइल"
+    }
+  }
